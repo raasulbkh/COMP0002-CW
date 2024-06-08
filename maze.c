@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <stdbool.h>
 #include <time.h>
-#include "graphics.c"
+#include "graphics.h"
 #include <string.h>
 
 #define WindowSize 800
