@@ -7,7 +7,7 @@ Robot in Maze is a C program simulating a robot navigating a maze to collect mar
 Compile and run the program with:
 
 ```bash
-gcc -o maze maze.c
+gcc -o maze maze.c graphics.c
 ./maze | java -jar drawapp-3.0.jar
 ```
 Example usage:
